@@ -1,0 +1,10 @@
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
